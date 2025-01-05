@@ -1,0 +1,68 @@
+Metadata-Version: 2.1
+Name: Myloanapp
+Version: 1.0.0
+Summary: Loan Prediction Model
+Home-page: https://github.com/bipulshahi
+Author: Bipul Kumar
+Author-email: bipul@abc.com
+License: ABC
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: ABC License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.7.0
+Description-Content-Type: text/markdown
+
+
+# this is loan approval project
+
+# create requirement.txt
+# we will list all packages and modules here to be installed in server
+# by executing "pip install -r requirements.txt" 
+# we can install all required dependecies in any system in which we need to execute our project
+
+## create virtual Environment
+Install virtualenv
+
+'''
+python3 -m pip install virtualenv
+'''
+
+Check version
+'''
+virtualenv --version
+'''
+
+Create a virtual environment
+'''
+virtualenv ml_package
+'''
+
+# Activate virtual environment
+**Windows**
+ml_package\Scripts\activate
+**Linux or Mac**
+source ml_package/bin/activate
+
+# Change and mode into the project directory
+# install all dependecies in the virtual environemnt
+'''pip install -r requirements.txt'''
+
+# run training pipline file
+'''python training_pipeline.py'''
+
+# execute predict.py
+'''python predict.py'''
+
+# manifest.in => here we make a list of files and directory to be used in final distribution
+
+# Virtual environment
+* virtualenv ml_package
+* ml_package\Scripts\activate
+* pip install setuptools twine
+# run it at location where setup.py is created
+* python setup.py sdist  
+

@@ -1,0 +1,13 @@
+# we will list all packages and modules here to be installed in server
+# by executing "pip install -r requirements.txt" 
+# we can install all required dependecies in any system in which we need to execute our project
+
+
+numpy==2.1.3
+pandas==2.2.3
+joblib==1.4.2
+scikit-learn==1.6.0
+scipy==1.14.1
+pytest==8.3.4
+setuptools==57.4.0
+wheel==0.45.1
