@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Mlops1_experiment_Packages/MLFlow-Managed-MLExperiments/mlflow_ml/mlruns/587990871583263385/011389b25a274ef4a2929c1c4bcfb01e/artifacts
+end_time: 1735980799625
+entry_point_name: ''
+experiment_id: '587990871583263385'
+lifecycle_stage: active
+run_id: 011389b25a274ef4a2929c1c4bcfb01e
+run_name: adventurous-lynx-114
+run_uuid: 011389b25a274ef4a2929c1c4bcfb01e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735980799548
+status: 4
+tags: []
+user_id: vipul

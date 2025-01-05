@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Mlops1_experiment_Packages/MLFlow-Managed-MLExperiments/mlruns/179818886499979095/9925f69fe6dd4e9b9f5b78b22ddb0bf7/artifacts
+end_time: 1735978857847
+entry_point_name: ''
+experiment_id: '179818886499979095'
+lifecycle_stage: active
+run_id: 9925f69fe6dd4e9b9f5b78b22ddb0bf7
+run_name: Exanple Demo
+run_uuid: 9925f69fe6dd4e9b9f5b78b22ddb0bf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735978857743
+status: 3
+tags: []
+user_id: vipul

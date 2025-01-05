@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Mlops1_experiment_Packages/MLFlow-Managed-MLExperiments/mlflow_ml/mlruns/587990871583263385/0bc4fbbdc73249699452c943fa0c3c84/artifacts
+end_time: 1735980860061
+entry_point_name: ''
+experiment_id: '587990871583263385'
+lifecycle_stage: active
+run_id: 0bc4fbbdc73249699452c943fa0c3c84
+run_name: rare-swan-858
+run_uuid: 0bc4fbbdc73249699452c943fa0c3c84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735980854704
+status: 3
+tags: []
+user_id: vipul
